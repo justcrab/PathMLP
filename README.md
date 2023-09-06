@@ -1,5 +1,5 @@
 # PathMLP
-The raw code will be published after the paper is accepted !
+The code will be published after the paper is accepted !
 ## 1 Normal Group
 * Cora, Citeseer, Pubmed
 * Cora-full
